@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @razeer1221
+- 👀 I’m interested in C++
+- 🌱 I’m currently learning C++
+- 📫 How to reach me razeer1221@gmail.com
